@@ -31,6 +31,60 @@ The data can be found in the ZippedData folder. It was originally provided in th
 * WordCloud version:
 * Glob version:
 
+## Our Approach
+We will first seek to provide an insight into the movie industry by examining:
+- The number of movies produced
+- How profitable are movies
+
+We will then explore the characteristics of a successful movie and seek to answer the following questions:
+- What budget should be allocated? 
+- What movie genres are currently performing best? 
+- How long should the movie be? 
+- When should the movie be released? 
+
+We will draw our attention to two particular scenarios:
+- Online distribution of movies, examining Netflix original movies
+- Movies based on video games, as the Company has successful existing franchises
+
+## Key Findings
+**Profit and Profit Margin**
+- Profit can be seen as worldwide gross less production budget but note that this is a simplified approach as does not account for other revenue streams and costs. 
+- We found a high correlation between profit and worldwide gross.
+- Median profit for a top 100 grossing movie post 2010 is \\$600 million.
+- Profit margin for a top 100 grossing movie post 2010 is around 80%.
+
+**Budget**
+- Strong negative correlation between budget and profit margin.
+
+**Runtime**
+- Average runtime is 100 minutes.
+- Top movies are longer, around 120 minutes.
+- No direct correlation between runtime and worldwide gross, nor runtime and production budget
+
+**Genre**
+- Over half of movies produced can be described as drama.
+- More than 80% of the top 100 grossing movies post 2010 can be described as adventure movies and 60% fall into action.
+- An action and/or adventure movies costs on average $45 million more.
+- Action movies rose to popularity in 2010 and have been outperforming non-action movies since. Adventure movies have consistantly outperformed non-adventure movies since 2009.
+- Future movies for which data are already available are mostly drama and comedy.
+
+**Release date**
+- Most successful months are May/June and November.
+- Most movies are released on a Friday.
+
+**Netflix Original Movies**
+- Characteristics differ for an online distribution model.
+- Around 70 movies released per annum (based on 2018 and 2019).
+- Runtime of around 99 minutes.
+- Comedy and drama dominate.
+
+**Movies based on video games**
+- Between 1 and 3 such movies released each year.
+- Average worldwide gross of $135 million.
+- Average budget of $50 million.
+- Action and Aventure dominate.
+- Company's existing franchises to leverage: Halo, Forza and Minecraft.
+
 ## Actionable Insights
 
 1. Have a **budget** of at least $50 million and ideally $150-200 million.
