@@ -23,13 +23,12 @@ The data can be found in the ZippedData folder. It was originally provided in th
 
 ## Technologies
 * Python version: 3.6.9
-* Matplotlib version: 3.0.3
+* Matplotlib version: 3.1.3
 * Seaborn version: 0.9.0
-* Pandas version: 0.24.2
-* Numpy version: 1.16.2
-* BeautifulSoup version:
-* WordCloud version:
-* Glob version:
+* Pandas version: 0.25.1
+* Numpy version: 1.16.5
+* BeautifulSoup version: 4.8.0
+* WordCloud version: 1.6.0
 
 ## Our Approach
 We will first seek to provide an insight into the movie industry by examining:
@@ -50,11 +49,14 @@ We will draw our attention to two particular scenarios:
 **Profit and Profit Margin**
 - Profit can be seen as worldwide gross less production budget but note that this is a simplified approach as does not account for other revenue streams and costs. 
 - We found a high correlation between profit and worldwide gross.
-- Median profit for a top 100 grossing movie post 2010 is \\$600 million.
+- Median profit for a top 100 grossing movie post 2010 is $600 million.
 - Profit margin for a top 100 grossing movie post 2010 is around 80%.
 
 **Budget**
 - Strong negative correlation between budget and profit margin.
+- No correlation between budget and worldwide gross amongst top 100 grossing movies post 2010.
+![Relationship between budget and worldwide gross](Budget.jpg)
+
 
 **Runtime**
 - Average runtime is 100 minutes.
