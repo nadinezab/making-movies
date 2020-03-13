@@ -36,10 +36,10 @@ We will first seek to provide an insight into the movie industry by examining:
 - How profitable are movies
 
 We will then explore the characteristics of a successful movie and seek to answer the following questions:
-- What budget should be allocated? 
-- What movie genres are currently performing best? 
-- How long should the movie be? 
-- When should the movie be released? 
+- What **budget** should be allocated? 
+- What movie **genres** are currently performing best? 
+- How **long** should the movie be? 
+- **When** should the movie be released? 
 
 We will draw our attention to two particular scenarios:
 - Online distribution of movies, examining Netflix original movies
@@ -55,6 +55,7 @@ We will draw our attention to two particular scenarios:
 **Budget**
 - Strong negative correlation between budget and profit margin.
 - No correlation between budget and worldwide gross amongst top 100 grossing movies post 2010.
+
 ![Relationship between budget and worldwide gross](Budget.jpg)
 
 
@@ -63,6 +64,8 @@ We will draw our attention to two particular scenarios:
 - Top movies are longer, around 120 minutes.
 - No direct correlation between runtime and worldwide gross, nor runtime and production budget
 
+![Runtime for top 100 grossing movies post 2010](Runtime.jpg)
+
 **Genre**
 - Over half of movies produced can be described as drama.
 - More than 80% of the top 100 grossing movies post 2010 can be described as adventure movies and 60% fall into action.
@@ -70,9 +73,13 @@ We will draw our attention to two particular scenarios:
 - Action movies rose to popularity in 2010 and have been outperforming non-action movies since. Adventure movies have consistantly outperformed non-adventure movies since 2009.
 - Future movies for which data are already available are mostly drama and comedy.
 
+![Genres of top 100 grossing movies post 2010](Genres.jpg)
+
 **Release date**
 - Most successful months are May/June and November.
 - Most movies are released on a Friday.
+
+![Release month count and worldwide gross per release month](Releasemonth.jpg)
 
 **Netflix Original Movies**
 - Characteristics differ for an online distribution model.
