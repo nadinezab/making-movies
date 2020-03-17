@@ -11,15 +11,21 @@ The Company is after actionable insights to shape their new venture.
 
 * **Jupyter Notebook**
 
-The <a href="https://github.com/nadinezab/making-movies/blob/master/Making%20Movies.ipynb">Jupyter Notebook</a> is our key deliverable and contains details of our approach and methodology, data mining and cleaning, visualisations and insights and recommendations.
+The <a href="https://github.com/nadinezab/making-movies/blob/master/Making%20Movies.ipynb">Jupyter Notebook</a> is our key deliverable and contains details of our approach and methodology, data mining and cleaning, visualisations and insights and recommendations. 
+
+I recommend using [nbviewer](https://nbviewer.jupyter.org/) to view the Jupyter Notebook.
 
 * **Presentation**
 
-The presentation gives a high-level overview of the methodology, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long.
+The presentation gives a high-level overview of the methodology, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long. There are two files, with and without presenter notes.
 
 * **Data**
 
 The data can be found in the ZippedData folder. It was originally provided in the following <a href="https://github.com/learn-co-students/dsc-mod-1-project-v2-1-onl01-dtsc-pt-012120/tree/master/zippedData">repository</a>.
+
+* **Blog Post**
+
+A [blog post](https://medium.com/@nadinezab/5-technical-takeaways-from-my-first-eda-project-f806375574ce) was created focusing on key technical takeaways from completing this project.  
 
 ## Technologies
 * Python version: 3.6.9
@@ -30,27 +36,15 @@ The data can be found in the ZippedData folder. It was originally provided in th
 * BeautifulSoup version: 4.8.0
 * WordCloud version: 1.6.0
 
-## Our Approach
-We will first seek to provide an insight into the movie industry by examining:
-- The number of movies produced
-- How profitable are movies
 
-We will then explore the characteristics of a successful movie and seek to answer the following questions:
-- What **budget** should be allocated? 
-- What movie **genres** are currently performing best? 
-- How **long** should the movie be? 
-- **When** should the movie be released? 
+## To get started
 
-We will draw our attention to two particular scenarios:
-- Online distribution of movies, examining Netflix original movies
-- Movies based on video games, as the Company has successful existing franchises
+1. Clone this repository - [guidance](https://help.github.com/articles/cloning-a-repository/)).
+2. Data data can be found in the ZippedData folder.
+3. Check requirements in Technologies section above and download libraries if necessary.
+
 
 ## Key Findings
-**Profit and Profit Margin**
-- Profit can be seen as worldwide gross less production budget but note that this is a simplified approach as does not account for other revenue streams and costs. 
-- We found a high correlation between profit and worldwide gross.
-- Median profit for a top 100 grossing movie post 2010 is $600 million.
-- Profit margin for a top 100 grossing movie post 2010 is around 80%.
 
 **Budget**
 - Strong negative correlation between budget and profit margin.
@@ -67,11 +61,8 @@ We will draw our attention to two particular scenarios:
 ![Runtime for top 100 grossing movies post 2010](Runtime.jpg)
 
 **Genre**
-- Over half of movies produced can be described as drama.
 - More than 80% of the top 100 grossing movies post 2010 can be described as adventure movies and 60% fall into action.
 - An action and/or adventure movies costs on average $45 million more.
-- Action movies rose to popularity in 2010 and have been outperforming non-action movies since. Adventure movies have consistantly outperformed non-adventure movies since 2009.
-- Future movies for which data are already available are mostly drama and comedy.
 
 ![Genres of top 100 grossing movies post 2010](Genres.jpg)
 
@@ -85,13 +76,12 @@ We will draw our attention to two particular scenarios:
 - Characteristics differ for an online distribution model.
 - Around 70 movies released per annum (based on 2018 and 2019).
 - Runtime of around 99 minutes.
-- Comedy and drama dominate.
+- Comedy and drama are most popular.
 
 **Movies based on video games**
 - Between 1 and 3 such movies released each year.
-- Average worldwide gross of $135 million.
-- Average budget of $50 million.
-- Action and Aventure dominate.
+- Average worldwide gross of $135 million and average budget of $50 million.
+- Action and Aventure are most popular.
 - Company's existing franchises to leverage: Halo, Forza and Minecraft.
 
 ## Actionable Insights
@@ -101,7 +91,7 @@ We will draw our attention to two particular scenarios:
 3. Produce an **action/adventure** type of movie.
 4. Aim for a release date in **May/June** or **November**
 5. Decide whether to pursue Box Office or online distribution as characteristics differ
-6. Consider utilising existing video games franchises to benefit from existing fanbase
+6. Consider utilising video games franchises to benefit from existing fanbase
 
 ## Contributors:
 
