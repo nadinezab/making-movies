@@ -17,7 +17,7 @@ I recommend using [nbviewer](https://nbviewer.jupyter.org/) to view the Jupyter 
 
 * **Presentation**
 
-The presentation gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long. There are two files, with and without presenter notes.
+The presentation gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long. There are two files, [with](https://github.com/nadinezab/making-movies/blob/master/Presentation_with_notes.pdf) and [without](https://github.com/nadinezab/making-movies/blob/master/Presentation.pdf) presenter notes.
 
 * **Data**
 
