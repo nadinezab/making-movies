@@ -86,7 +86,7 @@ A [blog post](https://towardsdatascience.com/5-technical-takeaways-from-my-first
 
 ## Actionable Insights
 
-1. Have a **budget** of at least $50 million and ideally $150-200 million.
+1. Have a **budget** of at least $50 million and ideally between $100-200 million.
 2. Produce a long movie, with a **runtime of at least 2 hours**.
 3. Produce an **action/adventure** type of movie.
 4. Aim for a release date in **May/June** or **November**
