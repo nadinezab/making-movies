@@ -11,21 +11,21 @@ The Company is after actionable insights to shape their new venture.
 
 * **Jupyter Notebook**
 
-The <a href="https://github.com/nadinezab/making-movies/blob/master/Making%20Movies.ipynb">Jupyter Notebook</a> is our key deliverable and contains details of our approach and methodology, data mining and cleaning, visualisations and insights and recommendations. 
+The [Jupyter Notebook](https://github.com/nadinezab/making-movies/blob/master/Making%20Movies.ipynb) is our key deliverable and contains details of our approach and methodology, data mining and cleaning, visualisations and insights and recommendations. 
 
 I recommend using [nbviewer](https://nbviewer.jupyter.org/) to view the Jupyter Notebook.
 
 * **Presentation**
 
-The presentation gives a high-level overview of the methodology, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long. There are two files, with and without presenter notes.
+The presentation gives a high-level overview of our approach, findings and recommendations for non-technical stakeholders. It is aimed to be between 5 and 10 minutes long. There are two files, with and without presenter notes.
 
 * **Data**
 
-The data can be found in the ZippedData folder. It was originally provided in the following <a href="https://github.com/learn-co-students/dsc-mod-1-project-v2-1-onl01-dtsc-pt-012120/tree/master/zippedData">repository</a>.
+The data can be found in the ZippedData folder. It was originally provided in the following [repository](https://github.com/learn-co-students/dsc-mod-1-project-v2-1-onl01-dtsc-pt-012120/tree/master/zippedData).
 
 * **Blog Post**
 
-A [blog post](https://medium.com/@nadinezab/5-technical-takeaways-from-my-first-eda-project-f806375574ce) was created focusing on key technical takeaways from completing this project.  
+A [blog post](https://towardsdatascience.com/5-technical-takeaways-from-my-first-eda-project-f806375574ce?source=friends_link&sk=85b2ff54b7d20f1d90ea89f3cc13e185) published in Towards Data Science was created focusing on key technical takeaways from completing this project.  
 
 ## Technologies
 * Python version: 3.6.9
@@ -39,7 +39,7 @@ A [blog post](https://medium.com/@nadinezab/5-technical-takeaways-from-my-first-
 
 ## To get started
 
-1. Clone this repository - [guidance](https://help.github.com/articles/cloning-a-repository/)).
+1. Clone this repository - [guidance](https://help.github.com/articles/cloning-a-repository/).
 2. Data data can be found in the ZippedData folder.
 3. Check requirements in Technologies section above and download libraries if necessary.
 
